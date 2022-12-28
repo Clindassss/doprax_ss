@@ -3,7 +3,7 @@
     "server_port": 9000,
     "method": "aes-256-gcm",
     "timeout": 300,
-    "password": "yourPassword",
+    "password": "de04add9-5c68-8bab-950c-08cd5320df18",
     "fast_open": false,
     "nameserver": "8.8.8.8",
     "mode": "tcp_only",
